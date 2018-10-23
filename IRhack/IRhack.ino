@@ -2,7 +2,7 @@ const int BLINK_LED = 10;
 
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(BLINK_LED, OUTPUT);
+  pinMode(BLINK_LED, OUTPUT); // This is how we set it up
 }
 
 // the loop function runs over and over again forever
